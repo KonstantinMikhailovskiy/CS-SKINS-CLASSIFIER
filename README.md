@@ -12,7 +12,7 @@
 Проект был разработан в качестве индивидуального проекта по предмету "Искусственный интеллект и глубокое обучение на Python". 
 
 ## Используемые технологии:
-'Python 3.10'
+* 'Python 3.10'
 - Streamlit  1.57.0;
 - FastAPI 0.136.1 / Uvicorn 0.47.0;
 - Scikit-learn 1.7.2 (RandomForestRegressor, SimpleImputer);
