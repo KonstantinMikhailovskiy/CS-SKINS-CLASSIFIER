@@ -78,8 +78,8 @@
 
 ### 1. Клонируйте репозиторий и перейдите в папку:
 ```bash
-git clone https://github.com/KonstantinMikhailovskiy/cs-skin-price-predictor.git
-cd cs-skin-price-predictor
+git clone https://github.com/KonstantinMikhailovskiy/CS-SKINS-CLASSIFIER.git
+cd CS-SKINS-CLASSIFIER
 ```
 ### 2. Создайте виртуальное окружение и установите зависимости:
 ```
