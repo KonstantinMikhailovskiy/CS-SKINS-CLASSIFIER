@@ -1,6 +1,6 @@
 <div align="center">
 
-![Logo](https://images.steamusercontent.com/ugc/2043000540794527621/55C1146394B4D4E22B26E7AE04B16C3EEB54B526/?imw=100&imh=100&ima=fit)
+<img src="https://images.steamusercontent.com/ugc/2043000540794527621/55C1146394B4D4E22B26E7AE04B16C3EEB54B526/?imw=80&imh=80&ima=fit" width="80" height="80" style="vertical-align: middle; margin-right: 15px;">
 
 # CS-SKINS-CLASSIFIER
 
