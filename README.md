@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://images.steamusercontent.com/ugc/2043000540794527621/55C1146394B4D4E22B26E7AE04B16C3EEB54B526/?imw=80&imh=80&ima=fit" width="80" height="80">
+![Logo](https://images.steamusercontent.com/ugc/2043000540794527621/55C1146394B4D4E22B26E7AE04B16C3EEB54B526/?imw=100&imh=100&ima=fit)
 
 # CS-SKINS-CLASSIFIER
+
+</div>
 
 
 ## Описание
