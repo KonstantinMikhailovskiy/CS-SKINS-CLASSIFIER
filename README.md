@@ -12,13 +12,14 @@
 Проект был разработан в качестве индивидуального проекта по предмету "Искусственный интеллект и глубокое обучение на Python". 
 
 ## Используемые технологии:
-- Streamlit;
-- FastAPI / Uvicorn;
-- Scikit-learn (RandomForestRegressor, SimpleImputer);
-- Pandas / NumPy;
-- Plotly;
-- SpeechRecognition;
-- Requests / JSON.
+'Python 3.10'
+- Streamlit  1.57.0;
+- FastAPI 0.136.1 / Uvicorn 0.47.0;
+- Scikit-learn 1.7.2 (RandomForestRegressor, SimpleImputer);
+- Pandas 2.3.3 / NumPy 1.24.3;
+- Plotly 6.7.0;
+- SpeechRecognition 3.16.1;
+- Requests 2.34.2 / JSON.
 
 ## Обучающая и Тестовая выборка:
 Обучающая выборка состоит из датасета `Cs_skins.csv`, содержащего информацию о тысячах скинов. Данные включают: название оружия, имя скина, редкость, тип кейса, состояние износа, наличие модификаций (StatTrak™) и исторические рыночные цены.
