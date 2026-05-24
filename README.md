@@ -6,6 +6,17 @@
 
 </div>
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.57.0-FF4B4B?logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.136.1-009688?logo=fastapi&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.7.2-F7931E?logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2.3.3-150458?logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-6.7.0-3F4F75?logo=plotly&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+</div>
 
 ## 📖 Описание
 Система, написанная с применением алгоритмов машинного обучения, предназначенная для предсказания стоимости скинов Counter-Strike в качестве `Factory New` на основе табличных исторических данных.
@@ -80,3 +91,7 @@ pip install -r requirements.txt
 ```python model_api.py```
 ### 4. В новом окне терминала запустите веб-приложение:
 ```streamlit run Main.py```
+
+## 📄 Лицензия
+
+В данном проекте используется лицензия [MIT](https://github.com/KonstantinMikhailovskiy/CS-SKINS-CLASSIFIER/blob/main/LICENSE).
