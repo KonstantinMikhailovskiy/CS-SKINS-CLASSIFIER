@@ -52,16 +52,17 @@
 
 ## 🚀 Установка и запуск
 
-1. Клонируйте репозиторий и перейдите в папку:
+### 1. Клонируйте репозиторий и перейдите в папку:
 ```bash
 git clone https://github.com/KonstantinMikhailovskiy/cs-skin-price-predictor.git
-cd cs-skin-price-predictor '''
+cd cs-skin-price-predictor
 
-2. Создайте виртуальное окружение и установите зависимости:
-'''python -m venv venv
+### 2. Создайте виртуальное окружение и установите зависимости:
+python -m venv venv
 venv\Scripts\activate   # Windows
-pip install -r requirements.txt'''
-3. Запустите API-сервер с моделью:
-'''python model_api.py'''
-4. В новом окне терминала запустите веб-приложение:
-'''streamlit run Main.py''' 
+pip install -r requirements.txt
+
+### 3. Запустите API-сервер с моделью:
+python model_api.py
+### 4. В новом окне терминала запустите веб-приложение:
+streamlit run Main.py
