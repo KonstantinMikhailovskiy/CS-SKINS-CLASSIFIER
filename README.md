@@ -87,9 +87,26 @@ python -m venv venv
 venv\Scripts\activate   # Windows
 pip install -r requirements.txt
 ```
-### 3. Запустите API-сервер с моделью:
+### 3. Скачайте необходимые библиотеки
+```
+pip install streamlit==1.57.0
+pip install fastapi==0.136.1
+pip install uvicorn==0.47.0
+pip install pandas==2.3.3
+pip install scikit-learn==1.7.2
+pip install numpy==1.24.3
+pip install plotly==6.7.0
+pip install speechrecognition==3.16.1
+pip install pyaudio==0.2.14
+pip install requests==2.34.2
+pip install python-multipart==0.0.6
+pip install streamlit_option_menu
+pip install feedparser
+pip install bs4
+```
+### 4. Запустите API-сервер с моделью:
 ```python model_api.py```
-### 4. В новом окне терминала запустите веб-приложение:
+### 5. В новом окне терминала запустите веб-приложение:
 ```streamlit run Main.py```
 
 ## 📄 Лицензия
